@@ -1,5 +1,5 @@
 # clade8
-_In silico_ identification of the clade-8 specific SNP from E. coli O157
+_In silico_ identification of the clade-8 specific SNP from _E. coli_ O157
 
 ## Introduction
 
@@ -26,5 +26,3 @@ The program will start to work and generate a report (`list.fasta.xls`) in the s
 
 ## Citation
 _to be completed_
-
-
