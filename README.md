@@ -14,7 +14,7 @@ Before start, you need to make sure the following program is full functional in 
    * [BLAST+](https://ftp.ncbi.nlm.nih.gov/blast/executables/blast+/LATEST/)
 
 ## Usage
-First one would want to generate a list of WGS assemblies files, e.g.
+First one would want to generate a list of WGS assembly files, e.g.
 
     ls *.fasta >list.fasta.txt
 
