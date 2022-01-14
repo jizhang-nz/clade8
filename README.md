@@ -7,7 +7,7 @@ In a study published in 2008, 528 of _Escherichia coli_ O157 strains were into d
 
 This correlation were confirmed later in a few independent studies (Iyoda, Manning et al. 2014, Soderlund, Jernberg et al. 2014, Tarr, Shringi et al. 2018), although the nature of the correlation have not been completely understood.
 
-To facilitate the study of _E. coli_ O157 strain, I developed this tool to identify _in silico_ clade-8 specific SNP (ECs2357, C539A) from the WGS assembly of a _E. coli_ O157:H7 strain.
+To facilitate the study of _E. coli_ O157 strains, I developed this tool to identify _in silico_ clade-8 specific SNP (ECs2357, C539A) from the WGS assembly of a _E. coli_ O157:H7 strain.
 
 ## Prerequisite
 Before start, you need to make sure the following three programs were full functional in your system:
