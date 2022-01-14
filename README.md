@@ -9,7 +9,7 @@ This correlation were confirmed later in a few independent studies (Iyoda, Manni
 
 To facilitate the study of _E. coli_ O157 strain, I developed this tool to identify _in silico_ clade-8 specific SNP (ECs2357, C539A) from the WGS assembly of a _E. coli_ O157:H7 strain.
 
-## Prerequisites
+## Prerequisite
 Before start, you need to make sure the following three programs were full functional in your system:
    * [BLAST+](https://ftp.ncbi.nlm.nih.gov/blast/executables/blast+/LATEST/)
 
