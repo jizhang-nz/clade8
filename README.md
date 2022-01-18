@@ -18,7 +18,7 @@ First one would want to generate a list of WGS assembly files, e.g.
 
     ls *.fasta >list.fasta.txt
 
-Then one could put `clade8.pl`, `list.fasta.txt` and the other WGS assemblies files into the same folder, and run command like:
+Then one could put `clade8.pl`, `list.fasta.txt` alongside the WGS assemblies files and run command like:
 
     perl clade8.pl list.fasta.txt
 
