@@ -22,7 +22,7 @@ Then one could put `clade8.pl`, `list.fasta.txt` alongside the WGS assemblies fi
 
     perl clade8.pl list.fasta.txt
 
-The program will start to work and generate a report (`list.fasta.xls`) in the same folder.
+The program will start to work and generate a report file `list.fasta.xls` in the same directory.
 
 ## Citation
-_to be completed_
+_Comparative Genomics of Shiga Toxin-Producing Escherichia coli (STEC) strains from Pediatric Patients with and without Haemolytic Uremic Syndrome (HUS)_
