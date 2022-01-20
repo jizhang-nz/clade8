@@ -14,11 +14,11 @@ Before start, you need to make sure the following program is fully functional in
    * [BLAST+](https://ftp.ncbi.nlm.nih.gov/blast/executables/blast+/LATEST/)
 
 ## Usage
-First one would want to generate a list of WGS assembly files, e.g.
+First one would need to generate a list of WGS assembly files, e.g.
 
     ls *.fasta >list.fasta.txt
 
-Then one could put `clade8.pl`, `list.fasta.txt` alongside the WGS assemblies files and run command like:
+Then one could put `clade8.pl`, `list.fasta.txt` alongside the WGS assemblies files, and run command like:
 
     perl clade8.pl list.fasta.txt
 
