@@ -7,7 +7,7 @@ In a study published in 2008, 528 of _Escherichia coli_ O157 strains were divide
 
 This correlation was confirmed later in a few independent studies (Iyoda, Manning et al. 2014, Soderlund, Jernberg et al. 2014, Tarr, Shringi et al. 2018), although the nature of the phenomenon has not been completely understood.
 
-To facilitate the study of _E. coli_ O157 strains, I developed this tool to identify clade-8 O157 strains by analizing WGS data.
+To facilitate the study of _E. coli_ O157 strains, I developed this tool to identify the clade-8 specific SNP from sequence data.
 
 The program is based on a PCR assay detecting a SNP (C539A at ECs2357 in strain Sakai) that is unique to clade-8 strains (Iyoda, Manning et al. 2014).
 
