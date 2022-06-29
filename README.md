@@ -3,11 +3,11 @@ _In silico_ identification of the clade-8 specific SNP from _E. coli_ O157.
 
 ## Introduction
 
-In a study published in 2008, 528 of _Escherichia coli_ O157 strains were divided into nine clades according to a panel of 48 SNP loci. Strains that were isolated from patients suffering from Hemolytic Uremic Syndrome (HUS) were found frequently belonging to the clade-8 (Manning, Motiwala et al. 2008). 
+In a study published in 2008, 528 of _Escherichia coli_ O157 strains were divided into nine clades according to a panel of 48 SNP loci. O157 strains that were isolated from patients suffering from Hemolytic Uremic Syndrome (HUS) were found frequently belonging to the clade-8 (Manning, Motiwala et al. 2008). 
 
 This correlation was confirmed later in a few independent studies (Iyoda, Manning et al. 2014, Soderlund, Jernberg et al. 2014, Tarr, Shringi et al. 2018), although the nature of the phenomenon has not been completely understood.
 
-To facilitate the study of _E. coli_ O157 strains, I developed this tool to identify the clade-8 specific SNP from sequence data.
+To facilitate the study of _E. coli_ O157 strains, I developed this tool to identify the clade-8 specific SNP from whole-genome sequence.
 
 The program is based on a PCR assay detecting a SNP (C539A at ECs2357 in strain Sakai) that is unique to clade-8 strains (Iyoda, Manning et al. 2014).
 
@@ -27,4 +27,4 @@ Then one could put `clade8.pl`, `list.fasta.txt` alongside the WGS assemblies fi
 The program will start to work and write the result into a report file `list.fasta.xls` in the same directory.
 
 ## Citation
-_Comparative Genomics of Shiga Toxin-Producing Escherichia coli (STEC) strains from Pediatric Patients with and without Haemolytic Uremic Syndrome (HUS)_
+[_Comparative Genomics of Shiga Toxin-Producing Escherichia coli Strains Isolated from Pediatric Patients with and without Hemolytic Uremic Syndrome from 2000 to 2016 in Finland_](https://journals.asm.org/doi/full/10.1128/spectrum.00660-22)
