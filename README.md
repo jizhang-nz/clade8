@@ -3,13 +3,9 @@ _In silico_ identification of the clade-8 specific SNP from _E. coli_ O157.
 
 ## Introduction
 
-In a study published in 2008, 528 of _Escherichia coli_ O157 strains were divided into nine clades according to a panel of 48 SNP loci. O157 strains that were isolated from patients suffering from Hemolytic Uremic Syndrome (HUS) were found frequently belonging to the clade-8 (Manning, Motiwala et al. 2008). 
+In a 2008 study, 528 _Escherichia coli_ O157 isolates were classified into nine clades using a panel of 48 SNP loci. Isolates from patients with hemolytic uremic syndrome (HUS) frequently belonged to clade 8 (Manning, Motiwala et al. 2008). This association was subsequently corroborated by independent studies (Iyoda, Manning et al. 2014; Soderlund, Jernberg et al. 2014; Tarr, Shringi et al. 2018), although the underlying mechanism remains not fully understood.
 
-This correlation was confirmed later in a few independent studies (Iyoda, Manning et al. 2014, Soderlund, Jernberg et al. 2014, Tarr, Shringi et al. 2018), although the nature of the phenomenon has not been completely understood.
-
-To facilitate the study of _E. coli_ O157 strains, I developed this tool to identify the clade-8 specific SNP from whole-genome sequence.
-
-The program is based on a PCR assay detecting a SNP (C539A at ECs2357 in strain Sakai) that is unique to clade-8 strains (Iyoda, Manning et al. 2014).
+To facilitate the study of _E. coli_ O157 strains, I developed this tool to identify clade-8–specific SNPs from whole-genome sequences. The program is based on a PCR assay detecting the SNP C539A in ECs2357 of strain Sakai, which is unique to clade 8 (Iyoda, Manning et al. 2014).
 
 ## Prerequisite
 Before start, you need to make sure the following program is fully functional in your system:
